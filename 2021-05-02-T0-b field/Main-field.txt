@@ -1,0 +1,21 @@
+
+AutoPilot flight plans:  (h = 20 meters)
+
+
+1) Straight pass over the sensor without stopping.
+15:50:33.085 -> GS-A: Msg drone-B :  I got -> 600 msgs so far.
+Energia na 3s LIHV = 2089mAh
+
+2) Straight pass over the sensor stopping for 5 seconds.
+15:14:21.268 -> GS-A: Msg drone-B :  I got -> 4053 msgs so far.
+Energia na 3s LIHV = 2844mAh
+
+
+3) Straight pass over the sensor, descending at h/2, stopping for 5 seconds, returning to h, and following the path.
+14:47:47.102 -> GS-A: Msg drone-B :  I got -> 6304 msgs so far.
+Energia na 3s LIHV = 2889????
+
+segundo teste, marcando a bateria para os demais: parei no meio da CARGA
+
+
+
