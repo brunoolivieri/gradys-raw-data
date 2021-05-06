@@ -1,0 +1,40 @@
+
+Tests on 2021-04-25
+
+Naive code relaying on https://github.com/brunoolivieri/gradys-esp COMMIT id 4b998248c1112533150b421dccbceeb755457c13
+
+Saving stuff on https://github.com/brunoolivieri/gradys-raw-data/tree/master/2021-04-24%20-%20T0
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+details of wifi mesh on esp32 nodes:
+painlessmesh.h
+
+#define MAX_MESSAGE_QUEUE 50 // The original MAX_MESSAGE_QUEUE value was 
+#define NODE_TIMEOUT 2 * TASK_SECOND // The original NODE_TIMEOUT value
+#define SCAN_INTERVAL 10 * TASK_SECOND  // AP scan period in ms 
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ESP32 code:
+ESP32 power set to:  WiFi.setTxPower(WIFI_POWER_5dBm);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AutoPilot flight plans:  (h = 20 meters)
+
+
+1) Straight pass over the sensor without stopping.
+16:17:52.517 -> GS-A: Msg drone-B :  I got -> 0 msgs so far.
+
+2) Straight pass over the sensor stopping for 5 seconds.
+16:57:08.813 -> GS-A: Msg drone-B :  I got -> 4 msgs so far.
+
+3) Straight pass over the sensor, descending at h/2, stopping for 5 seconds, returning to h, and following the path.
+17:47:51.013 -> GS-A: Msg drone-B :  I got -> 1450msgs so far.
+
+INTERPOLANDO A ULTIMA PASSAGEM: 1450
+
+
+
+
