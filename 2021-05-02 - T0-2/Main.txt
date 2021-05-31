@@ -1,0 +1,40 @@
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+details of wifi mesh on esp32 nodes:
+painlessmesh.h
+
+#define MAX_MESSAGE_QUEUE 50 
+#define NODE_TIMEOUT 2 * TASK_SECOND 
+#define SCAN_INTERVAL 10 * TASK_SECOND  // AP scan period in ms 
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ESP32 code:
+ESP32 power set to:  WiFi.setTx(PowerWIFI_POWER_19dBm);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AutoPilot flight plans:  (h = 20 meters)
+
+
+1) Straight pass over the sensor without stopping.
+15:50:33.085 -> GS-A: Msg drone-B :  I got -> 600 msgs so far.
+Charger-> Energia na 3s LIHV = 2089mAh
+AC CurrTot -> 1903,73mAh | 1518,11mAh
+
+2) Straight pass over the sensor stopping for 5 seconds.
+15:14:21.268 -> GS-A: Msg drone-B :  I got -> 4053 msgs so far.
+Charger-> Energia na 3s LIHV = 2844mAh
+AC CurrTot -> 2156,54 | 2153,12
+
+3) Straight pass over the sensor, descending at h/2, stopping for 5 seconds, returning to h, and following the path.
+14:47:47.102 -> GS-A: Msg drone-B :  I got -> 6304 msgs so far.
+Charger-> Energia na 3s LIHV = 2889mAh
+Charger 2 -> Energia na 3s LIHV = 2845mAh
+AC CurrTot -> 2389,35mAh | 2241,92mAh
+
+
+
+
+
+
