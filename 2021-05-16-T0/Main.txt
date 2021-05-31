@@ -1,0 +1,21 @@
+
+Tests on 2021-05-16
+
+AutoPilot flight plans:  (h = 40 meters) - Everything else as the past tests
+
+
+1) Straight pass over the sensor without stopping.
+DATA: 17:52:27.910 -> GS-A: Msg drone-B :  I got -> 2011 msgs so far.
+BATTERY (Curr): 1630mAh
+
+2) Straight pass over the sensor stopping for 5 seconds.
+DATA:1 6:28:02.050 -> GS-A: Msg drone-B :  I got -> 2632 msgs so far.
+BATTERY (Curr): 2152mAh  
+
+3) Straight pass over the sensor, descending at h/2 (20m), stopping for 5 seconds, returning to h, and following the path.
+DATA: 16:06:30.080 -> GS-A: Msg drone-B :  I got -> 9981 msgs so far.
+BATTERY (from autopilot): 2364mAh x 11.4v x 3.6= 97016,4 -> msg/J = 
+BATTERY (from autopilot): 2364mAh x 12v x 3.6 = 102124,8 -> msg/J = 
+
+
+
