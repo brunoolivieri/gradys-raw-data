@@ -1,0 +1,76 @@
+1 - 12:39:30.154 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":103,"msgsSent":135,"dataMsgReceived":101,"gsMsgReceived":2,"maxConnections":2,"fromSensors":[95,6,0,0,0,0,0,0,0,0]}
+2 - 12:43:48.913 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":250,"msgsSent":389,"dataMsgReceived":246,"gsMsgReceived":4,"maxConnections":2,"fromSensors":[127,102,0,6,0,8,0,0,0,3]}
+3 - não pegou a parcial
+4 - não pegou a parcial
+tomou rtl
+3 - não pegou a parcial
+3 - não pegou a parcial
+
+
+
+resultado full de 4 voltas e meia: 
+12:59:43.578 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":13115,"msgsSent":14137,"dataMsgReceived":13062,"gsMsgReceived":53,"maxConnections":2,"fromSensors":[885,1784,0,768,637,5408,447,700,1084,1349]}
+foram 5m/s
+cada volta leva uns 4miniutos e 20
+
+-----------------
+ver nos logs quantas passadas para fazer menos do que á RTL
+
+tá ruim de ver as intermediárias, e se aumentar a potencia só do drone e da gs??
+
+nova bateria: 35 metros e dando uma paradinha na GS  - a paradinha não esta sendo muito suficiente
+
+
+
+13:33:53.694 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":3337,"msgsSent":3928,"dataMsgReceived":3335,"gsMsgReceived":2,"maxConnections":2,"fromSensors":[486,175,0,87,466,277,137,916,35,756]}
+13:33:54.336 -> gs-A: Msg from uav-A : uav-A
+
+
+
+
+agora vamos passar para 50metros:
+
+falta printline na ground station...  tem que fazer algo assim.
+
+
+14:01:30.634 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":290,"msgsSent":646,"dataMsgReceived":272,"gsMsgReceived":18,"maxConnections":2,"fromSensors":[32,19,22,0,177,7,0,0,0,15]}
+
+
+
+14:02:41.858 -> gs-A: Msg from uav-A : uav-A
+14:02:41.899 -> gs-A: Msg from uav-A : uav-A
+14:02:41.899 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":292,"msgsSent":704,"dataMsgReceived":272,"gsMsgReceived":20,"maxConnections":2,"fromSensors":[32,19,22,0,177,7,0,0,0,15]}
+14:02:42.901 -> gs-A: Msg from uav-A : uav-A
+14:02:44.059 -> gs-A: Msg from uav-A : uav-A
+14:02:45.059 -> gs-A: Msg from uav-A : uav-A
+14:02:45.934 -> gs-A: Msg from uav-A : uav-A
+14:02:45.934 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":293,"msgsSent":708,"dataMsgReceived":272,"gsMsgReceived":21,"maxConnections":2,"fromSensors":[32,19,22,0,177,7,0,0,0,15]}
+14:02:46.899 -> gs-A: Msg from uav-A : uav-A
+14:02:51.014 -> gs-A: Msg from uav-A : uav-A
+14:02:51.014 -> gs-A: Msg from uav-A : uav-A
+14:02:51.014 -> gs-A: Msg from uav-A : uav-A
+14:02:51.014 -> gs-A: Msg from uav-A : uav-A
+14:02:51.052 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":294,"msgsSent":713,"dataMsgReceived":272,"gsMsgReceived":22,"maxConnections":2,"fromSensors":[32,19,22,0,177,7,0,0,0,15]}
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+vamos para 10m/s
+tempo de voo: 
+numero de voltas: 
+
+
+15:52:17.660 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":12,"msgsSent":97,"dataMsgReceived":0,"gsMsgReceived":12,"maxConnections":1,"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
+15:52:18.129 -> gs-A: Msg from uav-A : uav-A
+
+
+
+
+
+
+
