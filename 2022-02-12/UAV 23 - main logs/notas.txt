@@ -1,0 +1,3 @@
+Nestes dois utlimos logs o quad começou a perder altitude controladamente em uma descida que parecia mais de um asa fixa...
+
+A análise dos logs mostrou que muito provavelmente houve perda de contato com o GPS. Sem sinal, ambos os EKFs chegaram nos limites de variância e o veículo entrou em LAND mode.
