@@ -1,0 +1,87 @@
+
+
+Coleta manual (andando):
+
+10:33:50.595 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":32094,"msgsSent":32698,"dataMsgReceived":32087,"gsMsgReceived":7,"maxConnections":2,
+"fromSensors":[78,243,2769,5577,3538,6013,2963,7513,2702,691]}
+
+--------------------------------------------------------------------------
+
+
+1) VOO
+35m - 5m/s - drone 25 - verificar se não foram 10m/s?
+
+parece ter feito a primeira a 10m/s e a segunda a 5m/s
+
+10:59:39.474 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":71,"msgsSent":216,"dataMsgReceived":38,"gsMsgReceived":33,"maxConnections":1,"
+fromSensors":[0,0,0,0,0,0,0,0,0,38]}
+
+das 3 passadas a primeira pareceu 10m/s assim como estava no wpnav, depois trocamos.
+
+
+2) VOO
+DRONE 22 , 35M - 5M/S 
+
+Começou torto, deixamos dois drones ligados juntos
+
+11:18:45.163 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":2,"msgsSent":18,"dataMsgReceived":1,"gsMsgReceived":1,"maxConnections":1,
+"fromSensors":[1,0,0,0,0,0,0,0,0,0]}
+
+
+3) VOO
+DRONE 25 , 20M - 5M/S 
+
+Voando com a mesma bateria
+
+0,2415,0,0,0,0,0,838,0,875
+
+
+4) VOO
+DRONE 22 , 35M - 5M/S 
+
+11:51:22.933 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":243,"msgsSent":384,"dataMsgReceived":232,"gsMsgReceived":11,"maxConnections":2,
+"fromSensors":[232,0,0,0,0,0,0,0,0,0]}
+
+
+5) VOO
+drone 21 - 35m - 5m/2
+12:41:29.106 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":7,"msgsSent":29,"dataMsgReceived":0,"gsMsgReceived":7,"maxConnections":1,
+"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
+
+
+
+
+
+
+
+
+6) voo - WIFI_POWER_19_5dBm
+
+drone 23, 50m, 5m/s
+
+15:27:48.014 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":5,"msgsSent":21,"dataMsgReceived":0,"gsMsgReceived":5,"maxConnections":1,
+"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
+
+
+
+7) voo - WIFI_POWER_19_5dBm
+
+
+drone 25, 20m, 5m/s
+
+16:15:17.343 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":2417,"msgsSent":2771,"dataMsgReceived":2415,"gsMsgReceived":2,"maxConnections":2,
+"fromSensors":[334,0,1357,0,111,421,137,38,0,17]}
+
+
+
+8) voo -  WIFI_POWER_19_5dBm
+
+drone 24, 35m, 5m/s
+16:48:15.348 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":2,"msgsSent":30,"dataMsgReceived":1,"gsMsgReceived":1,"maxConnections":1
+,"fromSensors":[0,0,0,0,0,0,1,0,0,0]}
+
+9) voo voo -  WIFI_POWER_19_5dBm
+
+drone 22, 50m, 5m/s
+17:44:40.443 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":1,"msgsSent":5,"dataMsgReceived":0,"gsMsgReceived":1,"maxConnections":1,
+"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
