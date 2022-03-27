@@ -1,0 +1,75 @@
+
+Em uma hora, dois saindo correndo para armar o campo e testar na mão.
+
+
+---------------
+
+
+1) Batt - drone 25
+mission_collection_5mseg_35metros:
+
+15:20:58.953 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":68,"msgsSent":151,"dataMsgReceived":41,"gsMsgReceived":15,"maxConnections":1,
+"fromSensors":[0,0,0,41,0,0,0,0,0,0]}
+
+pode ter dado problema, pois respondeu drone A e deveria ser drone E
+
+
+2) Batt - drone 21
+mission_collection_5mseg_50metros
+
+deve responder drone A 
+
+15:47:14.394 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":472,"msgsSent":589,"dataMsgReceived":464,"gsMsgReceived":8,"maxConnections":1,
+
+"fromSensors":[413,0,51,0,0,0,0,0,0,0]}
+
+
+
+3) batt - drone 25
+
+mission_collection_5mseg_20metros
+
+16:21:54.532 -> gs-A: Msg from uav-E : {"id":"uav-E","msgsReceived":584,"msgsSent":775,"dataMsgReceived":577,"gsMsgReceived":7,"maxConnections":1,
+"fromSensors":[0,0,0,577,0,0,0,0,0,0]}
+
+
+4) batt - drone 25
+
+mission_collection_5mseg_20metros  com delay de 2 segundos em cada waypoint
+
+
+17:04:09.636 -> gs-A: Msg from uav-E : {"id":"uav-E","msgsReceived":6537,"msgsSent":6854,"dataMsgReceived":6534,"gsMsgReceived":3,"maxConnections":2,
+"fromSensors":[0,0,0,1801,0,0,0,4733,0,0]}
+
+
+
+5) batt - drone 21
+
+mission_collection_5mseg_20metros  com delay de 5 segundos em cada waypoint
+
+
+17:30:10.395 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":1380,"msgsSent":1479,"dataMsgReceived":1376,"gsMsgReceived":4,"maxConnections":2,
+"fromSensors":[3,0,0,1373,0,0,0,0,0,0]}
+
+uma passada só
+
+
+6) batt - drone 21
+
+mission_collection_10mseg_35metros  com delay de 5 segundos em cada waypoint
+
+uma passada só
+
+17:53:36.420 -> gs-A: Msg from uav-A : {"id":"uav-A","msgsReceived":1,"msgsSent":5,"dataMsgReceived":0,"gsMsgReceived":1,"maxConnections":1,
+"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
+
+
+
+7) batt - drone 25, 
+
+mission_collection_10mseg_35metros  com delay de 10 segundos em cada waypoint
+
+
+18:02:40.455 -> gs-A: Msg from uav-E : {"id":"uav-E","msgsReceived":5,"msgsSent":21,"dataMsgReceived":0,"gsMsgReceived":1,"maxConnections":2,
+
+"fromSensors":[0,0,0,0,0,0,0,0,0,0]}
