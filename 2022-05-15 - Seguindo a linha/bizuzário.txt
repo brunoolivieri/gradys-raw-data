@@ -1,0 +1,17 @@
+Sensores com o código v2.2 (novo upgrade além set wifi power, um reset no desconnect)
+
+Drones com o código v2.0 (downgrade wifi-power rewrite)
+
+
+---------------------------------------------
+
+Trajeto: vai ao final e repete uma única vez.
+
+
+
+1) Teste 1: 35 metros - 5m/s
+
+Funcinou? Se sim, rodar os outros 2.
+
+
+Em caso de milagres, rodar com 10m/s
