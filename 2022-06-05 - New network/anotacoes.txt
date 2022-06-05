@@ -1,0 +1,91 @@
+Notas manuais
+
+
+Teste 1)
+
+UAV 25 - 500cm/s - 35m 
+Network - esp now
+10m:37s
+
+10:32:30.634 -> Data collection: 155 ; 167 ; 36 ; 189 ; 76 ; 138 ; 126 ; 51 ; 66 ; 78
+
+Teste 2)
+
+UAV 25 - 500cm/s - 20m 
+Network - esp now
+9m:33seg
+
+10:58:37.235 -> Data collection: 110 ; 60 ; 45 ; 79 ; 36 ; 87 ; 86 ; 45 ; 49 ; 29
+
+
+Teste 3)
+
+UAV 25 - 500cm/s - 50m 
+Network - esp now
+
+deu reset no sensor do drone
+
+Teste 4)
+
+UAV 25 - 500cm/s - 50m 
+Network - esp now
+
+12:39:27.636 -> Data collection: 128 ; 75 ; 33 ; 167 ; 23 ; 83 ; 118 ; 4 ; 49 ; 60
+
+
+Teste 5)
+
+UAV 22 - 1000cm/s - 35m 
+Network - esp now
+
+
+12:52:08.085 -> Data collection: 151 ; 66 ; 30 ; 81 ; 29 ; 76 ; 107 ; 18 ; 61 ; 38
+
+
+Teste 6)
+
+UAV 22 - 1000cm/s - 50m 
+Network - esp now
+
+
+13:06:43.907 -> Data collection: 131 ; 30 ; 16 ; 83 ; 22 ; 39 ; 77 ; 2 ; 34 ; 42
+
+
+
+Teste 7)
+
+UAV 25 - 1000cm/s - 20m 
+Network - esp now
+
+13:19:49.010 -> Data collection: 107 ; 103 ; 53 ; 71 ; 48 ; 115 ; 85 ; 44 ; 86 ; 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
